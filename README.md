@@ -20,7 +20,7 @@ https://colab.research.google.com/drive/1I6LhBy5qIdBF7VYySA-OUx2a7ku-4D2B?usp=sh
 4. What is the "view" rating for homes costing more than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
 * Original Data
 
-![q4_original](Images/q4_original.png)
+![q4](Images/q4.png)
 
 * Cached Data
 
